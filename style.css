@@ -1,0 +1,5 @@
+#backimg {
+    background:url("images/4.jpg") no-repeat;
+    background-size:cover;
+    height:250px;
+}
